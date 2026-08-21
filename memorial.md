@@ -1,6 +1,6 @@
 Atores
- Aluno
- Professor
- Coordenador 
- Administrador
- Monitor
+Aluno
+Professor
+Coordenador 
+Administrador
+Monitor
